@@ -1,0 +1,12 @@
+1. dir 		-show all files and folders (windows command)
+	ls  	-it is the same (but linux command)
+	ls - l 	-sort and show file and folder in order grow
+	ls - a	-sort snd show but first folder ane second files
+2. mkdir 	-create folder
+3. cd 		-this means change directoy
+	cd <name folder> 	-go to the folder.
+	(example cd dev/ - we are go to the dev folder)
+	cd .. 	-move one directory upwards
+	cd ~ 	-we go to account's home folder
+
+
