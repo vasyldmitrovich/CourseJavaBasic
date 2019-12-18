@@ -1,3 +1,29 @@
-This is first cod in
+1 { This is first cod in
 first text document
 be continued...
+}
+Okey the text above
+was cteated when i had been creating the file first
+
+now i am adding a new text here and in other files.
+This is wrong word "shaffle" //because i will find and fix that in a future
+
+-- vi have three editing modes: 
+command mode (he started first) we can redaction file or go to another mode
+command have with one or two symbol.
+":" go to last line mode
+
+insert mode (we nedd click button "i" if we want start this mode).
+
+last line mode (we can give strong commands)
+"wq" save and exit
+"q!" do not save and exit
+
+to be continued.. "Click ESC"
+I put cursor in line "to be continued" and click button "o" and
+vi created new line under that line. 
+from command mode if i click "x" symbol where is coursor will be crashed
+if i want delete all line i should click "dd"
+if i want delete onli word i should click "dw"
+if i higlight the word and click "R" word will be rewrited 
+command "G" go to the end of the file
