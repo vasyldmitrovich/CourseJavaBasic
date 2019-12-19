@@ -5,5 +5,7 @@ public class Test {
         String s3="Need work hardest";
         System.out.println("Tomorrow I need: "+s1+"\nAnd need: "+s2+"\nAnd I need: "+s3);
 	//This is second comment for this program
+	//create new branch "development" on ginhub website 
+	//and try add changes in new branch 
     }
 }
