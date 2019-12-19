@@ -4,5 +4,6 @@ public class Test {
         String s2="Need work harder";
         String s3="Need work hardest";
         System.out.println("Tomorrow I need: "+s1+"\nAnd need: "+s2+"\nAnd I need: "+s3);
+	//This is second comment for this program
     }
 }
