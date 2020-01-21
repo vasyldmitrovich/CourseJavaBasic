@@ -54,7 +54,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>org.testmaven.createjarfile.TextProcessing</mainClass>
+                <mainClass>org.testmaven.createjarfile.RunProgram</mainClass>
               </manifest>
             </archive>
           </configuration>
