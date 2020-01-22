@@ -33,6 +33,7 @@ public class TextProcessing {
         for (int i = 0; i < listEachIntegers.size(); i++) {
             System.out.print(listEachIntegers.get(i)+" ");
         }
+        System.out.println("");
                 //TODO Знайти скільки в тесті є дат (формати: 1996, 2003-02-01)
 
 

@@ -54,7 +54,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>org.testmaven.createjarfile.RunProgram</mainClass>
+                <mainClass>org.testmaven.createjarfile.WeatherRunning</mainClass>
               </manifest>
             </archive>
           </configuration>
