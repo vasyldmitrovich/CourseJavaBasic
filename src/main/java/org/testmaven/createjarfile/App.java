@@ -6,6 +6,7 @@ package org.testmaven.createjarfile;
  */
 public class App {
     public static void main(String[] args) {
+
         /*ternary operator*/
         int haveMoney = 5000;
         String message = haveMoney > 700 ? "Ok we go to the shop" : "We do not go to the shop";
@@ -13,6 +14,7 @@ public class App {
         boolean tired = true;
         String mesTwo = haveMoney > 700 & tired ? "And We go to the party" : "Or maybe we stay home";
         System.out.println(mesTwo);
+
         /*Testing GURU*/
         int [][] arrayDimension = {{1,4,7,5}, {9,2,0,2},{3,8,9,4}};
         int search = 8;
