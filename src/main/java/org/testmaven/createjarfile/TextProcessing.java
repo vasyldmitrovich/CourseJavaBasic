@@ -34,7 +34,7 @@ public class TextProcessing {
             System.out.print(listEachIntegers.get(i)+" ");
         }
         System.out.println("");
-                //TODO Знайти скільки в тесті є дат (формати: 1996, 2003-02-01)
+                //TODO Need search how many dates is in file (format: 1996, 2003-02-01)
 
 
     }

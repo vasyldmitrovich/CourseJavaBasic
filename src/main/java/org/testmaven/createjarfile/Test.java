@@ -3,6 +3,7 @@ package org.testmaven.createjarfile;
 public class Test {
     public static void main(String[] args) {
         String string = "234234";
+
         /*Check for integer variable*/
         int integerString = 0;
         boolean temp;
@@ -11,17 +12,18 @@ public class Test {
             integerString = Integer.parseInt(string);
         }
         System.out.println(integerString);
+
         /*Swap variables*/
         int a = 7;
         int b = 10;
-        System.out.println("this is a: "+a+"\nthis is b: "+b);
+        System.out.println("this is a: "+a+" this is b: "+b);
         a=a+b-(b=a);
-        System.out.println("this is a: "+a+"\nthis is b: "+b);
-        /*Напишите программу, которая выводит на экран числа от 1 до 100.
-        При этом вместо чисел, кратных трем, программа должна выводить слово Fizz,
-        а вместо чисел, кратных пяти — слово Buzz.
-        Если число кратно пятнадцати, то программа должна выводить слово FizzBuzz.*/
+        System.out.println("this is a: "+a+" this is b: "+b);
 
+        /*Write program, with output on display integer from 1 to 100.
+        * instead of numbers divisible by three, the program should show the word Fizz,
+        * and instead of numbers divisible by five, the program should show the word Buzz.
+        * If word divisible by fifteen the program should show the word FizzBuzz.*/
         for (int i = 1; i < 101; i++) {
             boolean boolThree = i%3==0;
             boolean boolFive = i%5==0;
